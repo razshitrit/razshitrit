@@ -29,5 +29,5 @@ I'm a passionate **Fullstack Developer** with a strong focus on building scalabl
 ---
 
 ## 📫 How to Reach Me
-- LinkedIn: [Raz Shitrit](https://www.linkedin.com/in/razshitrit/)
+- LinkedIn: [Raz Shitrit](https://www.linkedin.com/in/razshitritdev/)
 - Email: piskarov5@gmail.com
